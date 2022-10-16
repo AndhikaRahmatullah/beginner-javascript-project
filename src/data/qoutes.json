@@ -1,0 +1,723 @@
+[
+	{
+		"id": 1,
+		"kategori": "kehidupan",
+		"kalimat": "\"Tindakan menyalahkan hanya akan membuang waktu. Sebesar apapun kesalahan yang kamu timpakan ke orang lain, dan sebesar apapun kamu menyalahkannya, hal tersebut tidak akan mengubahmu.\"",
+		"sumber": "Wayne Dyer"
+	},
+	{
+		"id": 2,
+		"kategori": "kehidupan",
+		"kalimat": "\"Ambillah risiko yang lebih besar dari apa yang dipikirkan orang lain aman. Berilah perhatian lebih dari apa yang orang lain pikir bijak. Bermimpilah lebih dari apa yang orang lain pikir masuk akal.\"",
+		"sumber": "Claude T. Bissell"
+	},
+	{
+		"id": 3,
+		"kategori": "kehidupan",
+		"kalimat": "\"Ia yang mengerjakan lebih dari apa yang dibayar pada suatu saat akan dibayar lebih dari apa yang ia kerjakan.\"",
+		"sumber": "Napoleon Hill"
+	},
+	{
+		"id": 4,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jangan tanyakan pada dirimu apa yang dibutuhkan dunia. Bertanyalah apa yang membuatmu hidup, kemudian kerjakan. Karena yang dibutuhkan dunia adalah orang yang antusias.\"",
+		"sumber": "Harold Whitman"
+	},
+	{
+		"id": 5,
+		"kategori": "kehidupan",
+		"kalimat": "\"Janganlah pernah menyerah ketika kamu masih mampu berusaha lagi. Tidak ada kata berakhir sampai kamu berhenti mencoba.\"",
+		"sumber": "Brian Dyson"
+	},
+	{
+		"id": 6,
+		"kategori": "kehidupan",
+		"kalimat": "\"Janganlah menganggap remeh hal-hal yang terdekat dengan hati kamu. Rangkullah mereka seperti sama berharganya dengan hidupmu, karena tanpa mereka hidup adalah sia-sia.\"",
+		"sumber": "Peribahasa Cina"
+	},
+	{
+		"id": 7,
+		"kategori": "kehidupan",
+		"kalimat": "\"Perubahan itu menyakitkan, Ia menyebabkan orang merasa tidak aman, bingung, dan marah. Orang menginginkan hal seperti sediakala, karena mereka ingin hidup yang mudah.\"",
+		"sumber": "Richard Marcinko"
+	},
+	{
+		"id": 8,
+		"kategori": "kehidupan",
+		"kalimat": "\"Satu-satunya batasan untuk meraih mimpi adalah keragu-raguan kita akan hari ini. Marilah kita maju dengan keyakinan yang aktif dan kuat.\"",
+		"sumber": "Franklin Roosevelt"
+	},
+	{
+		"id": 9,
+		"kategori": "kehidupan",
+		"kalimat": "\"Orang yang lemah tidak mampu memaafkan. Memaafkan adalah ciri orang yang kuat.\"",
+		"sumber": "Mahatma Gandhi"
+	},
+	{
+		"id": 10,
+		"kategori": "kehidupan",
+		"kalimat": "\"Kembangkan sikap untuk selalu menjadi lebih baik. Membuat perbedaan yang kecil dalam tindakan akan menghasilkan perbedaan yang besar dalam hasil yang diperoleh.\"",
+		"sumber": "Brian Tracy"
+	},
+	{
+		"id": 11,
+		"kategori": "kehidupan",
+		"kalimat": "\"Seperti bergulat melawan seekor gorila. Kamu tidak berhenti ketika kamu lelah, kamu berhenti ketika gorila tersebut lelah.\"",
+		"sumber": "Robert Strauss"
+	},
+	{
+		"id": 12,
+		"kategori": "kehidupan",
+		"kalimat": "\"Pertama kita membentuk kebiasaan dan kebiasaan akan membentuk kita. Kalahkan kebiasaan burukmu, atau mereka akan mengalahkan kamu.\"",
+		"sumber": "Dr. Rob Gilbert"
+	},
+	{
+		"id": 13,
+		"kategori": "kehidupan",
+		"kalimat": "\"Sebuah permata tidak akan dapat dipoles tanpa gesekan, demikian juga seseorang tidak akan menjadi sukses tanpa tantangan.\"",
+		"sumber": "Peribahasa Cina"
+	},
+	{
+		"id": 14,
+		"kategori": "kehidupan",
+		"kalimat": "\"Cara paling mendasar dan kuat untuk terhubung dengan orang lain adalah dengan mendengarkan. Cukup Dengarkan. Mungkin hal terpenting yang bisa kita berikan kepada orang lain adalah perhatian kita.\"",
+		"sumber": "Naomi Remen"
+	},
+	{
+		"id": 15,
+		"kategori": "kehidupan",
+		"kalimat": "\"Berlakulah sopan terhadap siapa saja, bahkan kepada mereka yang bertindak kasar kepadamu. Bukan karena mereka pantas diperlakukan baik, tetapi karena adalah orang baik.\"",
+		"sumber": "Peribahasa Cina"
+	},
+	{
+		"id": 16,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jika kamu menginginkan sesuatu yang belum pernah dimiliki dalam hidupmu. Kamu harus melakukan sesuatu yang belum pernah dilakukan sebelumnya.\"",
+		"sumber": "JD Houston"
+	},
+	{
+		"id": 17,
+		"kategori": "kehidupan",
+		"kalimat": "\"Di mana tidak ada pergumulan, di situ tidak ada kekuatan.\"",
+		"sumber": "Oprah Winfrey"
+	},
+	{
+		"id": 18,
+		"kategori": "kehidupan",
+		"kalimat": "\"Mulai setiap harimu dengan pikiran positif dan hati yang bersyukur.\"",
+		"sumber": "Roy T. Bennett"
+	},
+	{
+		"id": 19,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jangan biarkan opini orang lain menenggelamkan suara dari dalam dirimu.\"",
+		"sumber": "Steve Jobs"
+	},
+	{
+		"id": 20,
+		"kategori": "kehidupan",
+		"kalimat": "\"Bangun dan wujudkan mimpimu atau orang lain akan memperkerjakanmu untuk membangun mimpi mereka.\"",
+		"sumber": "Farrah Gray"
+	},
+	{
+		"id": 21,
+		"kategori": "kehidupan",
+		"kalimat": "\"Kesuksesan tidak menemukanmu. Kamu harus keluar dan meraihnya.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 22,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jika kita terus melakukan apa yang kita lakukan, kita juga terus akan mendapatkan apa yang kita dapatkan.\"",
+		"sumber": "Stephen R. Covey"
+	},
+	{
+		"id": 23,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jangan menyerah. Hal-hal besar membutuhkan waktu. Bersabarlah.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 24,
+		"kategori": "kehidupan",
+		"kalimat": "\"Ingat, ini hanya hari yang buruk, bukan kehidupan yang buruk.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 25,
+		"kategori": "kehidupan",
+		"kalimat": "\"Optimisme adalah iman yang menuntunmu ke pencapaian.\"",
+		"sumber": "Helen Keller"
+	},
+	{
+		"id": 26,
+		"kategori": "kehidupan",
+		"kalimat": "\"Jangan membandingkan dirimu dengan orang lain. Bandingkan diri kamu dengan pribadi yang kemarin.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 27,
+		"kategori": "kehidupan",
+		"kalimat": "\"Hal-hal besar tidak pernah datang dari zona nyaman.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 28,
+		"kategori": "kehidupan",
+		"kalimat": "\"Lakukan sesuatu hari ini yang akan membuat diri kamu di masa depan berterima kasih.\"",
+		"sumber": "Anonim"
+	},
+	{
+		"id": 29,
+		"kategori": "kehidupan",
+		"kalimat": "\"Tidak apa-apa menjadi glowstick: terkadang kita harus patah sebelum bersinar.\"",
+		"sumber": "Jadah Sellner"
+	},
+	{
+		"id": 30,
+		"kategori": "kehidupan",
+		"kalimat": "\"Dorong dirimu sendiri, karena tidak ada orang lain yang akan melakukannya untukmu.\"",
+		"sumber": "Anonim"
+	},
+
+	{
+		"id": 1,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta itu perang, yakni perang yang hebat dalam rohani manusia. Jika ia menang, akan didapati orang yang tulus ikhlas, luas pikiran, sabar dan tenang hati. Jika ia kalah, akan didapati orang yang putus asa, sesat, lemah hati, kecil perasaan dan bahkan kadang-kadang hilang kepercayaan pada diri sendiri.\"",
+		"sumber": "Buya Hamka"
+	},
+	{
+		"id": 2,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta selalu saja misterius. Jangan diburu-buru, atau kau akan merusak jalan ceritanya sendiri.\"",
+		"sumber": "Tere Liye"
+	},
+	{
+		"id": 3,
+		"kategori": "asmara",
+		"kalimat": "\"Kenapa tisue bermanfaat ? karena cinta tak pernah kemarau.\"",
+		"sumber": "Sujiwo Tedjo"
+	},
+	{
+		"id": 4,
+		"kategori": "asmara",
+		"kalimat": "\"Pengecut terbesar adalah pria yang membangunkan cinta seorang wanita tanpa bermaksud untuk balas mencintainya.\"",
+		"sumber": "Bob Marley"
+	},
+	{
+		"id": 5,
+		"kategori": "asmara",
+		"kalimat": "\"Alasan tak berdaya dalam ekspresi cinta.\"",
+		"sumber": "Rumi"
+	},
+	{
+		"id": 6,
+		"kategori": "asmara",
+		"kalimat": "\"Cara dia ngelihat cinta akan berbeda semenjak patah hati itu.\"",
+		"sumber": "Raditya Dika"
+	},
+	{
+		"id": 7,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta bukan mengajar kita lemah, tetapi membangkitkan kekuatan. Cinta bukan mengajar kita menghinakan diri, tetapi menghembuskan kegagahan. Cinta bukan melemahkan semangat, tetapi membangkitkan semangat.\"",
+		"sumber": "Buya Hamka"
+	},
+	{
+		"id": 8,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta adalah perbuatan. Kata-kata dan tulisan indah adalah omong kosong.\"",
+		"sumber": "Tere Liye"
+	},
+	{
+		"id": 9,
+		"kategori": "asmara",
+		"kalimat": "\"Ketika Anda jatuh cinta, kebahagiaan akan membuat Anda sulit tertidur karena kenyataan lebih baik dibandingkan mimpi Anda.\"",
+		"sumber": "Dr.Suess"
+	},
+	{
+		"id": 10,
+		"kategori": "asmara",
+		"kalimat": "\"Hampa itu seperti langkah tak berjejak, senja tapi tak jingga, cinta tapi tak dianggap.\"",
+		"sumber": "Raditya Dika"
+	},
+	{
+		"id": 11,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta mengubah kekasaran menjadi kelembutan, mengubah orang tak berpendirian menjadi teguh berpendirian, mengubah pengecut menjadi pemberani, mengubah penderitaan menjadi kebahagiaan, dan cinta membawa perubahan-perubahan bagi siang dan malam.\"",
+		"sumber": "Rumi"
+	},
+	{
+		"id": 12,
+		"kategori": "asmara",
+		"kalimat": "\"Jangan kau bangunkan perempuan yang sedang dilanda cinta. Biarkan dia larut dalam mimpi manis, agar tak menangis saat menghadapi fakta yang ternyata pahit.\"",
+		"sumber": "Mark Twain"
+	},
+	{
+		"id": 13,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta tidak berupa tatapan satu sama lain, tetapi memandang keluar bersama ke arah yang sama.\"",
+		"sumber": "B.J Habibie"
+	},
+	{
+		"id": 14,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta bukan melepas tapi merelakan. Bukan memaksa tapi memperjuangkan. Bukan menyerah tapi mengikhlaskan. Bukan merantai tapi memberi sayap.\"",
+		"sumber": "Fiersa Besari"
+	},
+	{
+		"id": 15,
+		"kategori": "asmara",
+		"kalimat": "\"Jangan pernah jatuh cinta saat hujan. Karena ketika besok lusa kamu patah-hati, setiap kali hujan turun, kamu akan terkenang dengan kejadian menyakitkan itu. Saat orang lain bahagia menatap hujan, kamu justru nelangsa sedih melihat keluar jendela.\"",
+		"sumber": "Tere Liye"
+	},
+	{
+		"id": 16,
+		"kategori": "asmara",
+		"kalimat": "\"Aku ragu ada dan tiadaku. Namun cinta mengumumkan, Aku ada.\"",
+		"sumber": "M. Iqbal"
+	},
+	{
+		"id": 17,
+		"kategori": "asmara",
+		"kalimat": "\"Petani itu adalah seorang yang berkeyakinan baik, orang yang bermoral tinggi, dan memiliki cinta kepada kebebasan yang kokoh.\"",
+		"sumber": "Che Guevara"
+	},
+	{
+		"id": 18,
+		"kategori": "asmara",
+		"kalimat": "\"Inilah kenapa namanya jatuh cinta: kebanyakan orang terbang terlalu tinggi dan jatuh terlalu keras.\"",
+		"sumber": "Raditya Dika"
+	},
+	{
+		"id": 19,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta itu burung yang indah, yang mengemis untuk ditangkap tapi menolak tuk dilukai.\"",
+		"sumber": "Khalil Gibran"
+	},
+	{
+		"id": 20,
+		"kategori": "asmara",
+		"kalimat": "\"Sudah ribuan perang kujalani nak, tapi belum satupun perangku menjadi agung karena membela cinta.\"",
+		"sumber": "Sujiwo Tedjo"
+	},
+	{
+		"id": 21,
+		"kategori": "asmara",
+		"kalimat": "\"Setiap orang pasti akan mengalami patah hati yang mengubah cara pandangnya terhadap cinta seumur hidupnya.\"",
+		"sumber": "Raditya Dika"
+	},
+	{
+		"id": 22,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta tidak pernah menuntut, cinta selalu memberi.Cinta selalu menderita, tanpa pernah meratap, tanpa pernah mendendam.\"",
+		"sumber": "Mahatma Gandhi"
+	},
+	{
+		"id": 23,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta bukanlah bertahan seberapa lama. Tetapi seberapa jelas dan ke arah mana.\"",
+		"sumber": "Cak Nun"
+	},
+	{
+		"id": 24,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta tak tertangkap oleh mata, tapi diserap oleh pikiran. Maka bagi si buta, cinta seperti bidadari yang bersayap. Logika cinta pun tak bekerja seperti penilaian atas selera. Ia bersayap tetapi buta, ia tak ubahnya seperti anak-anak. Karena di dalam memilih, ia seringkali terpikat.\"",
+		"sumber": "William"
+	},
+	{
+		"id": 25,
+		"kategori": "asmara",
+		"kalimat": "\"Aku tidak terlalu peduli pada uang. Uang tidak dapat kupakai untuk membeli cinta.\"",
+		"sumber": "John Lennon"
+	},
+	{
+		"id": 26,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta adalah satu-satunya kebebasan di dunia karena ia begitu tinggi mengangkat jiwa, dimana hukum-hukum kemanusiaan dan kenyataan alam tidak mampu menemukan jejaknya.\"",
+		"sumber": "Khalil Gibran"
+	},
+	{
+		"id": 27,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta itu mempunyai kesanggupan yang hebat. Dia bisa membuat binatang menjadi manusia, dan manusia menjadi binatang.\"",
+		"sumber": "William Shakespeare"
+	},
+	{
+		"id": 28,
+		"kategori": "asmara",
+		"kalimat": "\"Gravitasi tidak bertanggung-jawab atas orang yang jatuh cinta.\"",
+		"sumber": "Albert Einstein"
+	},
+	{
+		"id": 29,
+		"kategori": "asmara",
+		"kalimat": "\"Hidup adalah kegelapan jika tanpa hasrat dan keinginan. Dan semua hasrat serta keinginan adalah buta, jika tidak disertai pengetahuan. Dan pengetahuan adalah hampa jika tidak diikuti pelajaran. Dan setiap pelajaran akan sia-sia jika tidak disertai cinta.\"",
+		"sumber": "Khalil Gibran"
+	},
+	{
+		"id": 30,
+		"kategori": "asmara",
+		"kalimat": "\"Cinta adalah sakit jiwa yang membahayakan.\"",
+		"sumber": "Plato"
+	},
+	{
+		"id": 1,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan mempunyai akar yang pahit, tapi buahnya manis.\"",
+		"sumber": "Aristoteles"
+	},
+	{
+		"id": 2,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan terutama terdiri dari apa yang tidak kita pelajari.\"",
+		"sumber": "Mark Twain"
+	},
+	{
+		"id": 3,
+		"kategori": "pendidikan",
+		"kalimat": "\"Kemajuan kita sebagai bangsa tidak bisa lebih cepat daripada kemajuan kita dalam pendidikan. Pikiran manusia adalah sumber daya fundamental kita.\"",
+		"sumber": "John F. Kennedy"
+	},
+	{
+		"id": 4,
+		"kategori": "pendidikan",
+		"kalimat": "\"Mendidik pikiran tanpa mendidik hati adalah bukan pendidikan sama sekali.\"",
+		"sumber": "Aristoteles"
+	},
+	{
+		"id": 5,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan itu bukan sebuah produk seperti gelar, diploma, pekerjaan, atau uang yang dihasilkan; pendidikan itu suatu proses yang tak akan pernah berakhir.\"",
+		"sumber": "Bel Kaufman"
+	},
+	{
+		"id": 6,
+		"kategori": "pendidikan",
+		"kalimat": "\"Tujuan pendidikan itu untuk mempertajam kecerdasan, memperkukuh kemauan, serta memperhalus perasaan.\"",
+		"sumber": "Tan Malaka"
+	},
+	{
+		"id": 7,
+		"kategori": "pendidikan",
+		"kalimat": "\"Mendidik pikiran tanpa mendidik hati adalah bukan pendidikan sama sekali.\"",
+		"sumber": "Aristoteles"
+	},
+	{
+		"id": 8,
+		"kategori": "pendidikan",
+		"kalimat": "\"Salah satu tujuan pendidikan adalah mengajarkan bahwa hidup itu berharga.\"",
+		"sumber": "Abraham H. Maslow"
+	},
+	{
+		"id": 9,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan tanpa nilai, seberapa bergunanya itu, tampaknya hanya akan menciptakan seorang iblis yang lebih pintar.\"",
+		"sumber": "C. S. Lewis"
+	},
+	{
+		"id": 10,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan adalah paspor ke masa depan, karena besok milik mereka yang mempersiapkannya hari ini.\"",
+		"sumber": "Malcolm X"
+	},
+	{
+		"id": 11,
+		"kategori": "pendidikan",
+		"kalimat": "\"Jangan Tuan terlalu percaya pada pendidikan sekolah. Seorang guru yang baik masih bisa melahirkan bandit-bandit yang sejahat-jahatnya, yang sama sekali tidak mengenal prinsip. Apalagi kalau guru itu sudah bandit pula pada dasarnya.\"",
+		"sumber": "Pramoedya Ananta Toer"
+	},
+	{
+		"id": 12,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan melahirkan kepercayaan. Keyakinan melahirkan harapan. Harapan melahirkan perdamaian.\"",
+		"sumber": "Konfusius"
+	},
+	{
+		"id": 13,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan adalah apa yang tersisa setelah melupakan semua yang dia pelajari di sekolah.\"",
+		"sumber": "Albert Einstein"
+	},
+	{
+		"id": 14,
+		"kategori": "pendidikan",
+		"kalimat": "\"Hanya pendidikan yang bisa menyelamatkan masa depan, tanpa pendidikan Indonesia tak mungkin bertahan.\"",
+		"sumber": "Najwa Shihab"
+	},
+	{
+		"id": 15,
+		"kategori": "pendidikan",
+		"kalimat": "\"Bagi orang yang tidak berpendidikan, huruf A hanyalah sebuah tiga garis.\"",
+		"sumber": "A.A. Milne"
+	},
+	{
+		"id": 16,
+		"kategori": "pendidikan",
+		"kalimat": "\"Investasi dalam pengetahuan selalu membayar bunga terbaik.\"",
+		"sumber": "Benjamin Franklin"
+	},
+	{
+		"id": 17,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan bukan persiapan untuk hidup tapi pendidikan adalah hidup itu sendiri.\"",
+		"sumber": "John Dewey"
+	},
+	{
+		"id": 18,
+		"kategori": "pendidikan",
+		"kalimat": "\"Apapun yang dilakukan oleh seseorang itu, hendaknya dapat bermanfaat bagi dirinya sendiri, bermanfaat bagi bangsanya, dan bermanfaat bagi manusia di dunia pada umumnya.\"",
+		"sumber": "Ki Hadjar Dewantara"
+	},
+	{
+		"id": 19,
+		"kategori": "pendidikan",
+		"kalimat": "\"Memiliki akal sehat tanpa pendidikan ribuan kali lebih baik daripada berpendidikan tanpa akal sehat.\"",
+		"sumber": "Robert Green Ingersoll"
+	},
+	{
+		"id": 20,
+		"kategori": "pendidikan",
+		"kalimat": "\"Kejeniusan tanpa pendidikan adalah ibarat perak di dalam tambang.\"",
+		"sumber": "Benjamin Franklin"
+	},
+	{
+		"id": 21,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan bukanlah sesuatu yang diperoleh seseorang, tapi pendidikan adalah sebuah proses seumur hidup.\"",
+		"sumber": "Gloria Steinem"
+	},
+	{
+		"id": 22,
+		"kategori": "pendidikan",
+		"kalimat": "\"Kegagalan hanyalah kesempatan untuk memulai lagi. Kali ini lebih cerdas.\"",
+		"sumber": "Henry Ford"
+	},
+	{
+		"id": 23,
+		"kategori": "pendidikan",
+		"kalimat": "\"Tidak ada lift untuk sukses. Kamu harus naik tangga.\"",
+		"sumber": "Zig Ziglar"
+	},
+	{
+		"id": 24,
+		"kategori": "pendidikan",
+		"kalimat": "\"Bila kaum muda yang telah belajar di sekolah dan menganggap dirinya terlalu tinggi dan pintar untuk melebur dengan masyarakat yang bekerja dengan cangkul dan hanya memiliki cita-cita yang sederhana, maka lebih baik pendidikan itu tidak diberikan sama sekali.\"",
+		"sumber": "Tan Malaka"
+	},
+	{
+		"id": 25,
+		"kategori": "pendidikan",
+		"kalimat": "\"Berjuang untuk sukses tanpa kerja keras seperti mencoba memanen ketika kamu belum menanam.\"",
+		"sumber": "David Bly"
+	},
+	{
+		"id": 26,
+		"kategori": "pendidikan",
+		"kalimat": "\"Mengapa masyarakat harus merasa bertanggung jawab hanya untuk pendidikan anak-anak, dan bukan untuk pendidikan semua orang dewasa dari segala usia ?\"",
+		"sumber": "Erich Fromm"
+	},
+	{
+		"id": 27,
+		"kategori": "pendidikan",
+		"kalimat": "\"Kamu calon konglomerat ya? Kamu harus rajin belajar dan membaca, tapi jangan ditelan sendiri. Berbagilah dengan teman-teman yang tak dapat pendidikan.\"",
+		"sumber": "Wiji Thukul"
+	},
+	{
+		"id": 28,
+		"kategori": "pendidikan",
+		"kalimat": "\"Buku apa pun yang membantu anak membentuk kebiasaan membaca, membuat membaca salah satu dari kebutuhannya yang mendalam dan berkelanjutan, adalah baik baginya.\"",
+		"sumber": "Maya Angelou"
+	},
+	{
+		"id": 29,
+		"kategori": "pendidikan",
+		"kalimat": "\" Belajar tidak dicapai secara kebetulan, itu harus dicari dengan semangat dan ketekunan.\"",
+		"sumber": "Abigail Adams"
+	},
+	{
+		"id": 30,
+		"kategori": "pendidikan",
+		"kalimat": "\"Pendidikan adalah senjata paling ampuh untuk mengubah dunia.\"",
+		"sumber": "Nelson Mandela."
+	},
+	{
+		"id": 1,
+		"kategori": "keluarga",
+		"kalimat": "\"Tidak masalah seberapa besar rumah kami; yang penting ada cinta di dalamnya.\"",
+		"sumber": "Peter Buffett"
+	},
+	{
+		"id": 2,
+		"kategori": "keluarga",
+		"kalimat": "\"Sebut saja klan, sebut saja jaringan, sebut saja suku, sebut saja keluarga: Apa pun sebutannya, siapa pun Anda, Anda membutuhkannya.\"",
+		"sumber": "Jane Howard"
+	},
+	{
+		"id": 3,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga berarti tidak ada yang tertinggal atau dilupakan.\"",
+		"sumber": "David Ogden Stiers"
+	},
+	{
+		"id": 4,
+		"kategori": "keluarga",
+		"kalimat": "\"Kita mungkin memiliki perbedaan, tetapi tidak ada yang lebih penting daripada keluarga.\"",
+		"sumber": "Kelapa"
+	},
+	{
+		"id": 5,
+		"kategori": "keluarga",
+		"kalimat": "\"Ikatan yang menghubungkan keluarga sejati Anda bukanlah ikatan darah, tetapi rasa hormat dan sukacita dalam kehidupan satu sama lain.\"",
+		"sumber": "Richard Bachu"
+	},
+	{
+		"id": 6,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga yang bahagia hanyalah surga yang lebih awal.\"",
+		"sumber": "George Bernard Shaw"
+	},
+	{
+		"id": 7,
+		"kategori": "keluarga",
+		"kalimat": "\"Menjadi sebuah keluarga berarti Anda adalah bagian dari sesuatu yang sangat indah. Itu berarti Anda akan mencintai dan dicintai selama sisa hidup Anda.\"",
+		"sumber": "Lisa Weed"
+	},
+	{
+		"id": 8,
+		"kategori": "keluarga",
+		"kalimat": "\"Kebahagiaan adalah memiliki keluarga besar, penuh kasih, perhatian, dan erat di kota lain.\"",
+		"sumber": "George Burns"
+	},
+	{
+		"id": 9,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga adalah usaha yang berisiko, karena semakin besar cinta, semakin besar kerugiannya… Itulah trade-offnya. Tapi aku akan mengambil semuanya.\"",
+		"sumber": "Brad Pitt"
+	},
+	{
+		"id": 10,
+		"kategori": "keluarga",
+		"kalimat": "\"Kekuatan sebuah keluarga, seperti kekuatan tentara, terletak pada kesetiaannya satu sama lain.\"",
+		"sumber": "Mario Puzo"
+	},
+	{
+		"id": 11,
+		"kategori": "keluarga",
+		"kalimat": "\"Hal terpenting di dunia adalah keluarga dan cinta.\"",
+		"sumber": "John Wood"
+	},
+	{
+		"id": 12,
+		"kategori": "keluarga",
+		"kalimat": "\"Ketika semuanya menjadi seperti neraka, orang-orang yang berdiri di samping Anda tanpa bergeming – mereka adalah keluarga Anda.\"",
+		"sumber": "Jim Butcher"
+	},
+	{
+		"id": 13,
+		"kategori": "keluarga",
+		"kalimat": "\"Bagi kami, keluarga berarti merangkul satu sama lain dan berada di sana.\"",
+		"sumber": "Barbara Bush"
+	},
+	{
+		"id": 14,
+		"kategori": "keluarga",
+		"kalimat": "\"Dalam kehidupan keluarga, cinta adalah minyak yang meredakan gesekan, semen yang mengikat lebih dekat, dan musik yang membawa harmoni.\"",
+		"sumber": "Friedrich Nietzsche"
+	},
+	{
+		"id": 15,
+		"kategori": "keluarga",
+		"kalimat": "\"Malam itu saya makan di restoran keluarga yang sangat bagus. Setiap meja memiliki argumen.\"",
+		"sumber": "George Carlin"
+	},
+	{
+		"id": 16,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga berantakan. Keluarga abadi selalu berantakan. Terkadang hal terbaik yang bisa kita lakukan adalah mengingatkan satu sama lain bahwa kita memiliki hubungan baik atau buruk…dan mencoba untuk meminimalkan melukai dan membunuh.\"",
+		"sumber": "Rick Riordan"
+	},
+	{
+		"id": 17,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga bukanlah hal yang penting. Itu segalanya.\"",
+		"sumber": "Michael J. Fox"
+	},
+	{
+		"id": 18,
+		"kategori": "keluarga",
+		"kalimat": "\"Wajah keluarga adalah cermin ajaib. Melihat orang-orang yang menjadi milik kita, kita melihat masa lalu, sekarang, dan masa depan.\"",
+		"sumber": "Gail Lumet Buckley"
+	},
+	{
+		"id": 19,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga adalah salah satu mahakarya alam.\"",
+		"sumber": "George Santayana"
+	},
+	{
+		"id": 20,
+		"kategori": "keluarga",
+		"kalimat": "\"Keluarga adalah kompas yang membimbing kita. Mereka adalah inspirasi untuk mencapai ketinggian yang luar biasa, dan tempat ternyaman kita ketika kita kadang-kadang goyah.\"",
+		"sumber": "Brad Henry"
+	},
+	{
+		"id": 21,
+		"kategori": "keluarga",
+		"kalimat": "\"Kamu adalah busur dimana anak-anakmu sebagai anak panah hidup yang dikirim.\"",
+		"sumber": "Khalil Gibran"
+	},
+	{
+		"id": 22,
+		"kategori": "keluarga",
+		"kalimat": "\"Begitu banyak dari apa yang terbaik dalam diri kita terikat dalam cinta kita pada keluarga, yang tetap menjadi ukuran stabilitas kita karena itu mengukur rasa kesetiaan kita.\"",
+		"sumber": "Haniel Long"
+	},
+	{
+		"id": 23,
+		"kategori": "keluarga",
+		"kalimat": "\"Seorang pria tidak boleh mengabaikan keluarganya untuk bisnis.\"",
+		"sumber": "Walt Disney"
+	},
+	{
+		"id": 24,
+		"kategori": "keluarga",
+		"kalimat": "\"Ibu rumah tangga memiliki karir tertinggi. Semua karir lain hanya ada untuk satu tujuan – dan itu adalah untuk mendukung karir tertinggi.\"",
+		"sumber": "C.S. Lewis"
+	},
+	{
+		"id": 25,
+		"kategori": "keluarga",
+		"kalimat": "\"Saudara perempuan mungkin adalah hubungan yang paling kompetitif dalam keluarga, tetapi begitu saudara perempuan tumbuh, itu menjadi hubungan yang paling kuat.\"",
+		"sumber": "Margaret Mead"
+	},
+	{
+		"id": 26,
+		"kategori": "keluarga",
+		"kalimat": "\"Setiap orang membutuhkan rumah untuk ditinggali, tetapi keluarga yang mendukung adalah yang membangun rumah.\"",
+		"sumber": "Anthony Liccione"
+	},
+	{
+		"id": 27,
+		"kategori": "keluarga",
+		"kalimat": "\"Tidak ada yang menyenangkan bagi seluruh keluarga.\"",
+		"sumber": "Jerry Seinfeld"
+	},
+	{
+		"id": 28,
+		"kategori": "keluarga",
+		"kalimat": "\"Nenek saya mulai berjalan lima mil sehari ketika dia berusia enam puluh tahun. Dia sembilan puluh tujuh sekarang, dan kita tidak tahu di mana dia.\"",
+		"sumber": "Ellen Degeneres"
+	},
+	{
+		"id": 29,
+		"kategori": "keluarga",
+		"kalimat": "\"Anda tidak memilih keluarga Anda. Mereka adalah pemberian Tuhan untuk Anda, seperti Anda bagi mereka.\"",
+		"sumber": "Desmond Tutu"
+	},
+	{
+		"id": 30,
+		"kategori": "keluarga",
+		"kalimat": "\"Karunia terbesar dalam kehidupan keluarga adalah berkenalan secara dekat dengan orang-orang yang mungkin tidak pernah Anda kenal, seandainya hidup tidak melakukannya untuk Anda.\"",
+		"sumber": "Kendall Hailey"
+	}
+]
