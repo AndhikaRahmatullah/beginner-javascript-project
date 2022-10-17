@@ -1,8 +1,9 @@
 <template>
 	<div class="home" id="head">
-		<div class="bg-red-500 dark:bg-gradient-to-br dark:from-gray-900 dark:via-gray-700 dark:to-gray-900 h-screen transition-all duration-500">
-			<NavigationBar />
+		<div class="max-h-screen transition-all duration-500">
+			<!-- <NavigationBar /> -->
 			<NightMode />
+			<HomeBody />
 		</div>
 	</div>
 </template>
@@ -10,11 +11,13 @@
 <script>
 	import NavigationBar from "../components/NavigationBar.vue";
 	import NightMode from "../components/NightMode.vue";
+	import HomeBody from "../components/HomeBody.vue";
 	export default {
 		name: "Home",
 		components: {
 			NavigationBar,
 			NightMode,
+			HomeBody,
 		},
 	};
 </script>

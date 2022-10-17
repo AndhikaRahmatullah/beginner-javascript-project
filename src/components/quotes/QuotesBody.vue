@@ -1,9 +1,11 @@
 <template>
-	<div class="pt-10 max-w-screen-2xl pb-32 bg-white dark:bg-gradient-to-br from-gray-900 via-gray-700 to-gray-900 transition-all duration-500">
+	<div class="max-w-screen-2xl pb-32 bg-white dark:bg-gray-900 transition-all duration-1000">
+		<NavigationBar />
+		<Banner />
 		<!-- output -->
-		<div class="mx-auto w-[340px] md:w-[550px] lg:w-[700px] xl:w-[898px] h-[450px] md:h-[367px] border-8 flex flex-col justify-center items-center border-cyan-600 rounded-lg font-lora shadow-2xl dark:shadow-gray-700">
+		<div class="mx-auto w-[340px] md:w-[550px] lg:w-[700px] xl:w-[898px] h-[450px] md:h-[367px] border-8 flex flex-col justify-center items-center border-cyan-600 rounded-lg font-lora shadow-2xl dark:shadow-gray-800">
 			<div class="flex justify-center">
-				<p class="mx-3 md:mx-10 text-base lg:text-xl xl:text-2xl lg:px-6 lg:py-2.5 w-fit text-center italic dark:text-white transition-all duration-500">{{ quoteDisplay.kalimat }}</p>
+				<p class="mx-3 md:mx-10 text-base lg:text-xl xl:text-2xl lg:px-6 lg:py-2.5 w-fit text-center italic dark:text-white transition-all duration-1000">{{ quoteDisplay.kalimat }}</p>
 			</div>
 			<div class="flex justify-center">
 				<p class="mt-5 text-base lg:text-2xl px-6 py-2.5 font-medium italic p-2 bg-gradient-to-br from-cyan-500 to-cyan-600 text-white tracking-wide w-fit">{{ quoteDisplay.sumber }}</p>
@@ -28,6 +30,8 @@
 <script>
 	import { useStore } from "../../store/main";
 	import { mapActions, mapState } from "pinia";
+	import NavigationBar from "../NavigationBar.vue";
+	import Banner from "../Banner.vue";
 
 	export default {
 		name: "QuotesBody",
@@ -37,11 +41,9 @@
 				localStorage.setItem("cart", JSON.stringify(state));
 			});
 		},
-
-		mounted() {
-			// setInterval(() => {
-			// 	this.changeQuote();
-			// }, 5000);
+		components: {
+			NavigationBar,
+			Banner,
 		},
 
 		computed: {

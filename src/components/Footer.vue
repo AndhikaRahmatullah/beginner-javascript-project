@@ -27,7 +27,7 @@
 
 		<div class="text-xs md:text-base text-center text-white p-4" style="background-color: rgba(0, 0, 0, 0.2)">
 			© 2021 Copyright:
-			<a class="text-white" href="https://tailwind-elements.com/">Beginner Javascript Project</a>
+			<a class="text-white">Beginner Javascript Project</a>
 		</div>
 	</footer>
 </template>
