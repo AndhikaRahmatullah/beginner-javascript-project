@@ -1,19 +1,16 @@
-# beginer-js-project
+# Beginner Javascript Project
 
-## Project setup
-```
-npm install
-```
+I created this website application to hone the basic logic of Javascript programming.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Link
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> [dikarhmt.epizy.com](dikarhmt.epizy.com)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contributing
+
+- Andhika Rahmatullah (me)
+
+### This site was built using :  
+
+- [Vue.js](https://vuejs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
